@@ -1,0 +1,8 @@
+me/mahakagg/recyclerview/BuildConfig.java
+ me.mahakagg.recyclerview.BuildConfig
+me/mahakagg/recyclerview/MainActivity.java
+ me.mahakagg.recyclerview.MainActivity
+ me.mahakagg.recyclerview.MainActivity$1
+me/mahakagg/recyclerview/WordListAdapter.java
+ me.mahakagg.recyclerview.WordListAdapter
+ me.mahakagg.recyclerview.WordListAdapter$WordViewHolder
